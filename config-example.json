@@ -1,0 +1,7 @@
+{
+	host: 'example',
+	user: 'example',
+	password: 'example',
+	port: 1337,
+	database: 'example'
+}
